@@ -1,0 +1,24 @@
+{
+  "name": "c17-m1s9-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isc-joserodriguez/C17-M1S9-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isc-joserodriguez/C17-M1S9-Node/issues"
+  },
+  "homepage": "isc-joserodriguez.github.io/C17-M1S9-Node",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
